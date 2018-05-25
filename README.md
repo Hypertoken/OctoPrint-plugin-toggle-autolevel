@@ -43,3 +43,8 @@ Removing the plugin is also easy. Under *Settings -> Plugin Manager -> Toggle Au
 ### Non-Robo version
 
 For those *not* on a Robo printer, run the following command instead to delete the Python script: $&nbsp;`rm ~/.octoprint/plugins/ToggleAutolevel.py`.
+
+|Donate||Cryptocurrency|
+|:-----:|---|:--------:|
+| ![eth-receive](https://user-images.githubusercontent.com/15971213/40564950-932d4d10-601f-11e8-90f0-459f8b32f01c.png) || ![btc-receive](https://user-images.githubusercontent.com/15971213/40564971-a2826002-601f-11e8-8d5e-eeb35ab53300.png) |
+|Ethereum||Bitcoin|
