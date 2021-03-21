@@ -1,7 +1,7 @@
 # coding=utf-8
 
 import octoprint.plugin
-
+__plugin_pythoncompat__ = ">=2.7,<4"
 class ToggleAutolevelPlugin(octoprint.plugin.OctoPrintPlugin):
 	def rewrite_g29(self, comm_instance, phase, cmd, cmd_type, gcode, *args, **kwargs):
 		if gcode and gcode == "G29":
